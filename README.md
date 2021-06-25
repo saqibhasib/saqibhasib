@@ -1,16 +1,20 @@
-### Hi there 👋
+[![Hi! I'm Saqib Hasib](https://raw.githubusercontent.com/saqibhasib/saqibhasib/master/img/readme.gif)](https://www.linkedin.com/in/saqibhasib/)
 
+- 🔭 I’m currently working on a media player app for Android.
+- 👯 I’m looking to collaborate on AWS (Amazon Web Services) or anything interesting really.
+- 📫 You can reach me via 
+    * shasib@sfu.ca
+    * [LinkedIn](https://www.linkedin.com/in/saqibhasib/)
+    * [Personal (under construction) Website](https://saqibhasib.me/)
+    * [Goodreads 📚](https://www.goodreads.com/user/show/13451513-saqib-hasib)
+- 😄 Pronouns: He/Him.
+- 💻 Currently looking for Co-op/Internship within Canada from Fall 2021.
 <!--
-**saqibhasib/saqibhasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning ReactJs and Data Analysis using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 
 -->
