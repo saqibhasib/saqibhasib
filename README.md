@@ -8,7 +8,7 @@
     * [Personal (under construction) Website](https://saqibhasib.me/)
     * [Goodreads 📚](https://www.goodreads.com/user/show/13451513-saqib-hasib)
 - 😄 Pronouns: He/Him.
-- 💻 Currently looking for Co-op/Internship within Canada from Fall 2021.
+- 💻 Currently looking for Co-op/Internship within Canada from Summer 2022.
 <!--
 
 - 🌱 I’m currently learning ReactJs and Data Analysis using Python.
