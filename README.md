@@ -1,4 +1,4 @@
-[![Hi! I'm Saqib Hasib](https://raw.githubusercontent.com/saqibhasib/saqibhasib/master/img/readme.gif)](https://www.linkedin.com/in/saqibhasib/)
+[![Hi! I'm Saqib Hasib](https://raw.githubusercontent.com/saqibhasib/saqibhasib/master/img/readme.jpg)](https://www.linkedin.com/in/saqibhasib/)
 
 - 🔭 I’m currently working on a media player app for Android.
 - 👯 I’m looking to collaborate on AWS (Amazon Web Services) or anything interesting really.
